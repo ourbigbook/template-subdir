@@ -1,0 +1,6 @@
+{
+  "ignore": [
+    "CONTRIBUTING\\.md",
+    "README\\.md"
+  ]
+}
